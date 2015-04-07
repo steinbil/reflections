@@ -6,3 +6,7 @@ How is the staging area different from the working directory and the repository?
 
 	It's a way of grouping several files in a single commit
 
+How can you use the staging area to make sure you have one commit per logical change?
+
+	By grouping the files relevant in the staging area between commits
+
