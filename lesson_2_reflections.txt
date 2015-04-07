@@ -18,4 +18,6 @@ How do the diagrams help you visualize the branch structure?
 
 	It's easier to see, yo!
 
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 
+	because it retains history of both branches
